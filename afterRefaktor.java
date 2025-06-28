@@ -95,7 +95,7 @@ class PegawaiKontrak implements Pegawai {
 }
 
 // Kelas utama untuk menjalankan program
-public class GajiPegawaiTerminal {
+public class afterRefaktor {
 
     // Method bantu untuk memformat angka: jika angka bulat, hilangkan .0
     private static String formatNumber(double number) {
